@@ -8,6 +8,12 @@
  Run the project by using index.html
 
 ## Project description
+ This Calendar Project is JavaScript based. 
+ 
+ Day/week/month view provided.
+ 
+ An easy way to integrate with database.
+ 
  The project covers Web programming using Bootstrap and JavaScript.
  
  The code of this project has been optimized for readability.
